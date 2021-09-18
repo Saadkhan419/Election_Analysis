@@ -1,3 +1,4 @@
+# This is the latest git reference file
 # The data we need to retrieve.
 # A complete list of candidates who received votes
 # The percentage of votes each candidate won
